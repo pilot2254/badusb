@@ -1,0 +1,18 @@
+DELAY 500
+GUI r
+DELAY 200
+STRING notepad
+DELAY 200
+ENTER
+DELAY 750
+CTRL t
+DELAY 200
+STRING Vlado, prestan sa uz konecne hrat.
+DELAY 100
+ENTER
+DELAY 100
+STRING My vidime co robis na pocitaci.
+DELAY 100
+ENTER
+DELAY 100
+STRING --Lukas Nemec

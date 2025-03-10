@@ -1,0 +1,30 @@
+DELAY 500
+GUI r
+DELAY 200
+STRING notepad
+DELAY 200
+ENTER
+DELAY 750
+STRING This script is for Hannah
+DELAY 200
+STRING , my old friend with who i used to play dead by daylight and enjoyed every moment and minute with her
+DELAY 200
+ENTER
+DELAY 100
+ENTER
+DELAY 200
+STRING For more information, you can visit:
+DELAY 200
+ENTER
+STRING Her steam profile:[pridaj link na steam]
+DELAY 200
+ENTER
+STRING The discord chat: [pridaj dsc chat link]
+DELAY 200
+ENTER
+DELAY 100
+ENTER
+DELAY 200
+STRING I'm really sorry for what happened
+DELAY 200
+ENTERlado,prestan a uz konecne rat. My vidime co robis na pocitaci -Lukas Nemec

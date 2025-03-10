@@ -1,0 +1,22 @@
+DELAY 500
+GUI r
+DELAY 200
+STRING notepad
+DELAY 200
+ENTER
+DELAY 750
+STRING Hello
+DELAY 100
+STRING , I'm a automatic program made by @pilot2254
+DELAY 100
+STRING . I was created on March 8th because he was bored
+DELAY 100
+STRING . The thing I do is that I connect to your PC and type text for no reason
+DELAY 100
+STRING , lol.
+DELAY 100
+ENTER
+DELAY 100
+ENTER
+DELAY 100
+STRING Have fun!
