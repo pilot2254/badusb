@@ -1,7 +1,7 @@
 DELAY 200
 GUI r
 DELAY 500
-STRING powershell Start-Process powershell -Verb runAs
+STRING powershell Start-Process powershell
 ENTER
 DELAY 1000
 LEFTARROW

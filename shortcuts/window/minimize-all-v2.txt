@@ -1,2 +1,2 @@
 DELAY 250
-CTRL t
+GUI m

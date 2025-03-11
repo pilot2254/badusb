@@ -1,0 +1,8 @@
+DELAY 500
+GUI r
+DELAY 200
+STRING https://gay.nigga.dev
+DELAY 100
+ENTER
+DELAY 750
+F11

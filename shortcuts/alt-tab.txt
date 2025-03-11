@@ -1,2 +1,0 @@
-DELAY 500
-ALT TAB
