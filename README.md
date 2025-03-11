@@ -4,26 +4,7 @@ A collection of BadUSB scripts for my Flipper Zero, categorized into **harmful**
 
 ⚠ **Disclaimer:** These scripts are for educational and testing purposes only. Use them responsibly and ethically. I am not responsible for any misuse.
 
-## 📁 Project Structure  
-
-```
-badusb-collection/
-├── harmful/                  # Potentially dangerous scripts (Use with caution)
-├── misc/                     # Miscellaneous scripts
-├── pranks/                   # Fun but harmless scripts
-├── shortcuts/                # Useful keyboard shortcuts
-├── LICENSE                   # License information
-└── README.md                 # Project documentation
-```
-
 ---
-
-## 📌 Categories Explained
-
-- **harmful/** – Scripts that can cause disruptions. Use responsibly.  
-- **pranks/** – Harmless but funny scripts (e.g., fake errors, rickrolls).  
-- **shortcuts/** – Quick keyboard shortcuts for navigation and productivity.  
-- **misc/** – Various scripts that don't fit in the other categories.  
 
 ## 🚀 Usage  
 
