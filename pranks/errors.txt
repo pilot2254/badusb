@@ -1,6 +1,0 @@
-DELAY 500
-REPEAT 10
-STRING msg * Error: The system cannot find the file specified.
-ENTER
-DELAY 500
-ENDREPEAT
