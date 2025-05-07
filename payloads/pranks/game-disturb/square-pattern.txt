@@ -1,0 +1,13 @@
+DELAY 200
+REM Square Mouse Movement
+
+MOUSE_MOVE 50 0
+DELAY 150
+MOUSE_MOVE 0 50
+DELAY 150
+MOUSE_MOVE -50 0
+DELAY 150
+MOUSE_MOVE 0 -50
+DELAY 150
+
+REM Repeat this block for multiple loopss
