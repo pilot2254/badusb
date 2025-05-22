@@ -1,0 +1,7 @@
+REM Flash cmd
+
+GUI r
+DELAY 200
+STRING cmd
+DELAY 100
+ENTER

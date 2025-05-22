@@ -1,4 +1,4 @@
-REM Spin like a lunatic
+REM Spin like a lunatic on caffeine
 DELAY 200
 
 REM Move mouse down and repeat
@@ -6,5 +6,5 @@ MOUSE_MOVE 0 -100
 REPEAT 5
 
 REM Start Spinning
-MOUSE_MOVE 100 0
+MOUSE_MOVE 500 0
 REPEAT 10000
