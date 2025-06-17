@@ -28,3 +28,6 @@ Happy scripting!
 - **Added disclaimers**: To clarify ethical use.
 - **Improved descriptions**: Each section now has a brief explanation.
 - **Enhanced readability**: Added spacing, icons, and highlights.
+
+## Note:
+I know that my own scripts are shit, and look like that they are made by a kid. But who cares
