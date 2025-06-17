@@ -1,0 +1,6 @@
+REM Spin like a lunatic on caffeine
+DELAY 200
+
+REM Start Spinning
+MOUSE_MOVE 200 0
+REPEAT 1000000
