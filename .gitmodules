@@ -1,0 +1,9 @@
+[submodule "extern/I-Am-Jakoby-Flipper-Zero-BadUSB"]
+	path = extern/I-Am-Jakoby-Flipper-Zero-BadUSB
+	url = https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB.git
+[submodule "extern/SuperJakov-Badusb"]
+	path = extern/SuperJakov-Badusb
+	url = https://github.com/SuperJakov/Badusb.git
+[submodule "extern/bst04-payloads_flipperZero"]
+	path = extern/bst04-payloads_flipperZero
+	url = https://github.com/bst04/payloads_flipperZero
