@@ -1,4 +1,4 @@
-REM Spin like a lunatic
+REM Spin like a lunatic on caffeine
 DELAY 200
 
 REM Start Spinning
